@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "P48Y3779H9.com.spacenx.dsappc.sit",
+                "paths": [ "*"]
+            },
+            {
+                "appID": "P48Y3779H9.com.spacenx.dsappc",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
